@@ -35,10 +35,26 @@ Grupos de tecnologias especificas ou assuntos específicos:
 
 * [Infra - IT.BR Australia](https://chat.whatsapp.com/2lRWqYB2uJGEwilVW6ozEq)
 
-* [DataBase Specialists - IT.BR Australia](https://chat.whatsapp.com/invite/LHdyIUVwfmi70bCI4IYgqp)
+* [Data Specialists: DB, BI, ETL, Big Data - IT.BR Australia](https://chat.whatsapp.com/invite/LHdyIUVwfmi70bCI4IYgqp)
 
 * [MainFrame - IT.BR Australia](https://chat.whatsapp.com/invite/8BaNGf4hhnbLKamUPqm18m)
 
 * [PHP - IT.BR Australia](https://chat.whatsapp.com/4OBhUXw8LfGBk0tGIMojD2)
 
 * [Python - IT.BR Australia](https://chat.whatsapp.com/4ff2faMJFDfDkHvrXb3wWP)
+
+* [Machine Learning - IT.BR Australia] (https://chat.whatsapp.com/F8Guaco3uMK6Gtwhqr9B1w)
+
+Grupos de Cidades
+
+* [Melbourne - IT.BR Australia] (https://chat.whatsapp.com/BCLidRBMWDg5ol8xgLnmNE)
+
+* [Brisbane - Brazucas de TI em Brisbane] (https://chat.whatsapp.com/Iz7ZEIXoDINJVvDzZLzTZM)
+
+* [Gold Coast - IT.BR Australia] (https://chat.whatsapp.com/IOaUP4otZ2W0avHjC6wdG3)
+
+Outros Grupos
+
+* [Investimentos - IT.BR Australia] (https://chat.whatsapp.com/AHCx7avPUC7K5Nb9dXPLBJ)
+
+* [Off-Topic - IT.BR Australia] (https://chat.whatsapp.com/AjXQXDJ7NXKKootbNvCPDU)
